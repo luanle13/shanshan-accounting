@@ -1,0 +1,110 @@
+# compiled output
+/dist/
+/out-tsc/
+/coverage/
+
+# dependencies
+/node_modules/
+
+# production
+/build/
+
+# misc
+.run/
+.vscode/
+.idea/
+
+# debugging
+*.log
+
+# local environment variables
+.env*
+!.env.example
+
+# angular universal build output
+/dist-server/
+
+# Cypress
+/cypress/screenshots/
+/cypress/videos/
+
+# temporary files
+*.tmp
+*.bak
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor directories and files
+.atom/
+*.swp
+*.swo
+*~
+.project
+.c9/
+*.gem
+
+# Bower dependency directory (if used)
+/bower_components/
+
+# JSHint configuration files
+.jshintrc
+
+# IntelliJ IDEA
+*.iml
+*.iws
+*.idea
+
+# WebStorm/IntelliJ idea
+.idea/
+
+# Eclipse
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Visual Studio Code
+.vscode/
+
+# Mac files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows thumbnail cache
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+# Folder config file
+[Dd]esktop.ini
+
+# Linux
+.directory
+
+# Konvolut
+.directory
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows 10/11 file history
+*.backup.log
+
+# Temporary folders for file locking
+.hglock
